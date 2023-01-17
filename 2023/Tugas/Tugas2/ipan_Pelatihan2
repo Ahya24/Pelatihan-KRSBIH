@@ -1,3 +1,4 @@
+Pelatihan_2.1  
 nama_all = []
 
 while True:
@@ -34,7 +35,7 @@ while True:
         print("Terima Kasih")
         break
         
-        
+Pelatihan_2.2        
 nama = ["latifan", "ahsan"]
 for index, data in enumerate(nama):
     print(nama[index])
