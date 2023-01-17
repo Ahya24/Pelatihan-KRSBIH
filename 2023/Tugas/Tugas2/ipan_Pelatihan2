@@ -33,3 +33,14 @@ while True:
     elif pilihan == 5:
         print("Terima Kasih")
         break
+        
+        
+nama = ["latifan", "ahsan"]
+for index, data in enumerate(nama):
+    print(nama[index])
+    # print(f"Index : {index} | Nama  :{data}")
+    # print(f"Nama  :{data}")
+    # print(f"Index :{index}")
+        
+        
+        
